@@ -44,7 +44,7 @@ The application is deployed on Vercel, ensuring fast and reliable performance. A
 ### How to Run Locally
 1. Clone the repository:
    ```bash
-[  {git clone (https://github.com/xplorer5/news-blogs-app.git)]
+[git clone (https://github.com/xplorer5/news-blogs-app.git)]
    ```
 2. Navigate to the project directory:
    ```bash
